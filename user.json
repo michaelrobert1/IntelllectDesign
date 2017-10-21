@@ -1,0 +1,40 @@
+var user =[{
+    "id":1,
+     "firstName": "John",
+     "lastName": "Smith",
+     "email": 25,
+     "pincode":"600001",
+     "DOB":"22-12-2016",
+     "isActive": true
+     
+ },{
+    "id":2,
+     "firstName": "Robert",
+     "lastName": "Michael",
+     "email": 25,
+     "pincode":"600001",
+     "DOB":"22-12-2016",
+     "isActive": true
+     
+ },
+ {
+    "id":3,
+     "firstName": "dyna",
+     "lastName": "Smith",
+     "email": 25,
+     "pincode":"600001",
+     "DOB":"22-12-2016",
+     "isActive": true
+     
+ },
+ {
+    "id":4,
+     "firstName": "Madonna",
+     "lastName": "Smith",
+     "email": 25,
+     "pincode":"600001",
+     "DOB":"22-12-2016",
+     "isActive": true
+     
+ }
+ ]
